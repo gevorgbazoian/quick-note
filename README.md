@@ -18,6 +18,13 @@ A modern React application for creating, editing, and organizing notes with pers
 ![Quick Note Screenshot](./screenshots/quick-note-screenshot.png)
 *(Optional: GIF showing add/delete animations)*
 
+## Live Demo
+
+Try the live version here:  
+[🔗 Quick Note Live Demo](https://gevorgbazoian.github.io/quick-note)
+
+---
+
 ## Getting Started
 1. Clone the repository:
 ```bash
