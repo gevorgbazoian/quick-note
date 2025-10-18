@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quick-note/static/css/main.24a44107.css",
+    "main.js": "/quick-note/static/js/main.afa79158.js",
+    "index.html": "/quick-note/index.html",
+    "main.24a44107.css.map": "/quick-note/static/css/main.24a44107.css.map",
+    "main.afa79158.js.map": "/quick-note/static/js/main.afa79158.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a44107.css",
+    "static/js/main.afa79158.js"
+  ]
+}
