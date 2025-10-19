@@ -14,10 +14,6 @@ A modern React application for creating, editing, and organizing notes with pers
 - LocalStorage for persistence
 - React Transition Group for animations
 
-## Screenshot / Demo
-![Quick Note Screenshot](./screenshots/quick-note-screenshot.png)
-*(Optional: GIF showing add/delete animations)*
-
 ## Live Demo
 
 Try the live version here:  
